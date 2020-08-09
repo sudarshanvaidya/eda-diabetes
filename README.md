@@ -12,4 +12,4 @@ What I have tried:
 
 4. Create correlation maps for different data set versions and correlation heat maps 
 
-5. provided real world interpretation for each plot 
+5. Provided domain interpretation for each plot 
